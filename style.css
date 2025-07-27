@@ -10,7 +10,7 @@ body{
   max-height: 100vh;
   max-width:100vw;
   background-image: url(station1.jpg);
-  background-size: contain;
+  background-size: conver;
   font-weight: bold;
   text-align: center;
   
