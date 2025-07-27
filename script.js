@@ -5,8 +5,17 @@ let count = 0;
 function incrementCount(){
   count += 1;
   countEl.textContent = count;
+  
 }
-incrementCount();
+
+
+
+function decrementCount(){
+  count -= 1;
+  countEl.textContent = count;
+  
+}
+
 
 function saveCount(){
   let countStr = count + " - ";
@@ -14,4 +23,3 @@ function saveCount(){
   countEl.textContent = 0;
   count = 0;
 }
-saveCount();
