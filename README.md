@@ -11,4 +11,4 @@ You can increase or save the number. It reset to zero and recount once you've sa
 ## How to Use
 1. Download or clone the repo.
 2. Open `index.html` in your browser.
-3. Click the + / - / Reset buttons to use the counter.
+3. Click the INCREMENT / SAVE  buttons to use the counter.
